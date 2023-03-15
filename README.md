@@ -17,3 +17,5 @@ Run and open http://127.0.0.1:8080/
 12. getDebtorByIdBankrupt/{id}
 13. getDebtorReportsContentForPeriodByIdBankrupt/{id}/{date}
 14. getSroRegister/{date}
+
+using org.apache.cxf / cxf-codegen-plugin / 3.5.5
